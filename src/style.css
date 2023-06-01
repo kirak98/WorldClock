@@ -28,6 +28,7 @@ body {
 .time {
     font-size: 36px;
     font-weight: bold;
+    margin:15px 0;
 
 }
 .time small {
