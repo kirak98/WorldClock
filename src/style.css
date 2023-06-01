@@ -1,5 +1,5 @@
 body {
-    background-color: #f4ece3;
+    background-color: #98abc2;
     font-family: sans-serif;
 }
 .container {
@@ -9,6 +9,7 @@ body {
     background-color: #d0e0ef;
     border-radius: 15px;
     font-family: sans-serif;
+    
 }
 .city { 
     display: flex;
