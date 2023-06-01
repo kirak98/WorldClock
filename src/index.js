@@ -35,7 +35,9 @@ citiesElement.innerHTML = `<div class="city">
     <div class="date">${cityTime.format("Do MMMM YYYY")} </div>
     </div>
 <div class="time"> ${cityTime.format("HH:mm:ss")} <small>${cityTime.format("A")}</small></div>
-</div>`;
+</div>
+<a href="/">Back to Home Page</a>
+`;
 }
 
 let citiesSelectElement = document.querySelector("#city");
